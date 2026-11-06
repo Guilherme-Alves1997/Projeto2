@@ -1,0 +1,20 @@
+body {
+	background-color: #B9FFFF;
+}
+h1 {
+	color: #0000D0;
+	font-family: Merriweather;
+	font-size: 64px;
+}
+h2 {
+	color: #0066FF;
+	font-family: Comic Sans MS;
+}
+.destaque {
+	background-color: blue;
+	color: #EFFFFF;
+	margin: 32px;
+}
+(/*1. devido há simplicidade deste primeiro projeto com CSS, não tive dificuldade significativa a aplicar as regras de CSS*/)
+(/*2. os unicos erros de sintase detetados foram uma vez onde esqueci-me do .png na src da imagem e outra vez onde confundi a sintase CSS para class e para id*/)
+(/*3. o atributo src permite ao site saber onde procurar o conteudo, neste caso, a imagem que deve carregar na pagina*/)
